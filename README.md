@@ -6,3 +6,5 @@ Trello: https://trello.com/invite/b/zBdgfl9I/63fbac319d60453e67c77b067d768b73/10
 Gitter: https://gitter.im/Kallaway/100DaysOfCode
 
 Day 1 completed
+
+Day 2 completed
