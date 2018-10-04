@@ -1,4 +1,5 @@
-#Git Usage Instructions
+# Git Usage Instructions
+
 `git clone <repo-url>`
 Clones repository to local machine
 
