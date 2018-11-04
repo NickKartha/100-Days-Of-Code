@@ -1,4 +1,7 @@
 # 100 Days Of Code
+
+Relevant: https://www.youtube.com/watch?v=nAAf-EDs_K8
+
 My 100 Day Code Journey (from 1st Oct 2018 to 9th Jan 2019)
 
 Trello: https://trello.com/invite/b/zBdgfl9I/63fbac319d60453e67c77b067d768b73/100-days-of-code
