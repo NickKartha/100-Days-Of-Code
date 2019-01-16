@@ -77,3 +77,7 @@ Day 33 completed
 Day 35 completed
 
 Day 36 in-progress
+
+-- Abruptly cut short -- 
+
+This will resume again on 19/01/19 starting from Day 1 again.
